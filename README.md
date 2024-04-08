@@ -1,1 +1,1 @@
-# EDA-Pandas-Profiling-on-Titanic-Data-set
+# EDA & ydata- Profiling on Titanic Dataset
